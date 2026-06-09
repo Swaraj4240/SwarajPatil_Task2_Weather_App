@@ -71,16 +71,6 @@ Through this project, I learned:
 - User Input Processing
 - Working with Real-Time Data
 
-## Project Structure
-
-```text
-SwarajPatil_Task2_Weather_App
-│
-├── weather_app.py
-├── requirements.txt
-└── README.md
-```
-
 ## Author
 
 Swaraj Patil
