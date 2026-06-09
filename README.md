@@ -41,10 +41,11 @@ pip install requests
 1. Open Command Prompt, PowerShell, or VS Code Terminal.
 2. Navigate to the project folder.
 3. Run the following command:
-4. 
+
 ```bash
 py weather_app.py
 ```
+
 4. Enter a city name when prompted.
 
 Note: Replace "YOUR_API_KEY" in weather_app.py with your own OpenWeatherMap API key before running the application.
